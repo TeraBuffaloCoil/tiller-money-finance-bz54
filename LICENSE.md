@@ -1,4 +1,4 @@
-# 
+# Tiller Money helps you manage your finances with customizable spreadsheets, automatic updates, and financial insights.
 
 
 
